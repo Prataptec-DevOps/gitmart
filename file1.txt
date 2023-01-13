@@ -1,6 +1,6 @@
 hello
-this is test file1 updating in development
-development
+this is test file1 updating in master
+master
 
 Adding this line to test
 
